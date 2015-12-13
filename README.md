@@ -2,7 +2,7 @@
 
 *An example for splash screen & add to home screen icon in web apps*
 
-## [Demo](https://github.com/gokulkrishh/demo/chrome-splash-screen)
+## [Demo](https://gokulkrishh.github.io/demo/chrome-splash-screen)
 
 *Open above demo link in chrome mobile app to add to home*
 
